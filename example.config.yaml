@@ -1,0 +1,13 @@
+reddit: 
+  user: youruserhere
+  pass: somepasswordnontreallyneedyet
+  limit: 200
+messagequeue:
+  server: localhost
+  user: rabbitmqusername
+  pass: rabbitmqpassword
+database: 
+  location: sandbox\reddit.db
+  engine: sqlite+pysqlite
+fileStore:
+  location: sandbox\downloads\
