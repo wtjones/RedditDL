@@ -1,6 +1,12 @@
 # RedditDL
 Reddit Queue Based Downloader
 
+Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
 Rename example.config.yaml to config.yaml and add your information. 
 
 

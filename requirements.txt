@@ -1,0 +1,4 @@
+praw
+sqlalchemy
+pika
+pyyaml
